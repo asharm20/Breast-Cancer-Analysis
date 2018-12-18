@@ -27,10 +27,9 @@ The dataset consists of various attributes of the Diagnosed cell.
  Visualization the distribution of the output variable among the dataset.
 
 
+![unknown](https://user-images.githubusercontent.com/32040202/50131618-002bfc80-0251-11e9-8b59-0a2317724759.png)
 
 The distribution is in the ratio 60 to 40 for the variable. The accuracy for the M class of output variable might be high as compared to B class since the number of observation are fewer for B as compared to M.
-
-
 
 
 
@@ -40,7 +39,6 @@ The distribution is in the ratio 60 to 40 for the variable. The accuracy for the
 ![1](https://user-images.githubusercontent.com/32040202/50131617-002bfc80-0251-11e9-92c9-57917ee21106.png)
 
 
-![unknown](https://user-images.githubusercontent.com/32040202/50131618-002bfc80-0251-11e9-8b59-0a2317724759.png)
 
 The texture_mean  attributes has significant overlap as compared to other attributes hence its not a good variable for classification.
 
