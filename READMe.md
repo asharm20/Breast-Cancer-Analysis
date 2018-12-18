@@ -40,18 +40,12 @@ The distribution is in the ratio 60 to 40 for the variable. The accuracy for the
 
 # The Attributes characteristics for both the classes of output variable for classification 
 
-(../master/Breast-Cancer-Analysis/Images/1.png)
+(Breast-Cancer-Analysis/Images/1.png)
 
 
 
 The texture_mean  attributes has significant overlap as compared to other attributes hence its not a good variable for classification.
 
-
-
-
-
-
-# ROC curve
 
 
 
