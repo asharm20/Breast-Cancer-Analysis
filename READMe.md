@@ -37,9 +37,8 @@ The distribution is in the ratio 60 to 40 for the variable. The accuracy for the
 
 ![1](https://user-images.githubusercontent.com/32040202/50133713-b516e700-025a-11e9-838b-c52f395e50b9.png)
 
-![1](https://user-images.githubusercontent.com/32040202/50131617-002bfc80-0251-11e9-92c9-57917ee21106.png)
+<img width="352" alt="screen shot 2018-12-17 at 11 58 28 pm" src="https://user-images.githubusercontent.com/32040202/50166635-795d3b00-02b5-11e9-890d-d8c050c81769.png">
 
-![1](https://user-images.githubusercontent.com/32040202/50133713-b516e700-025a-11e9-838b-c52f395e50b9.png)
 
 The texture_mean  attributes has significant overlap as compared to other attributes hence its not a good variable for classification.
 
