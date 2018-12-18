@@ -97,4 +97,4 @@ The accuracy of the model is good and the misclassification rate is  fairly low 
 ![](Images/9.png)
 
 
-As you can see from the ROC curve that the fasle positive rate is almost zero. This is very important since in the medical doamins the flase positive and False Negative plays an important role since if the cancer is detected and the patient actually has Breast cancer might work but if the patient actually has Breast cancer and the model output a False negative than the life of the person will be in danger.
+As you can see from the ROC curve that the fasle positive rate is almost zero. This is very important since in the medical domains the False positive and False Negative plays an important role since if the cancer is detected and the patient actually has Breast cancer might work but if the patient actually has Breast cancer and the model output's a False negative than the life of the person will be in danger.
