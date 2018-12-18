@@ -14,7 +14,8 @@ A breast fine needle aspiration (FNA) removes some fluid or cells from a breast 
 # About the Data
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.  They describe characteristics of the cell nuclei present in the image.
 
-![](Images/Screen%20Shot%202018-12-13%20at%205.48.56%20PM.png)
+![](Images/0.png)
+
 
 # Features Importance
 Under a microscope, normal cells and cancer cells may look quite different. In contrast to normal cells, cancer cells often exhibit much more variability in cell size – some are larger than normal and some are smaller than normal. In addition, cancer cells often have an abnormal shape, both of the cell, and of the nucleus (the “brain” of the cell.) The nucleus appears both larger and darker than normal cells.
@@ -27,8 +28,7 @@ The dataset consists of various attributes of the Diagnosed cell.
 
  Visualization the distribution of the output variable among the dataset.
 
-
-![unknown](https://user-images.githubusercontent.com/32040202/50131618-002bfc80-0251-11e9-8b59-0a2317724759.png)
+![](Images/1.png)
 
 The distribution is in the ratio 60 to 40 for the variable. The accuracy for the M class of output variable might be high as compared to B class since the number of observation are fewer for B as compared to M.
 
