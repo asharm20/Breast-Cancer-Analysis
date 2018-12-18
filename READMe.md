@@ -1,10 +1,7 @@
-# Breast-Cancer-Analysis
-Predicting breast cancer based on various atributes caputred in the breast images
-
-
-
 # Breast Cancer Analysis
 ###### Author - Ayush Sharma 
+
+Predicting breast cancer based on various atributes caputred in the breast images
 
 
 # Introduction to Topic
@@ -40,7 +37,7 @@ The distribution is in the ratio 60 to 40 for the variable. The accuracy for the
 
 # The Attributes characteristics for both the classes of output variable for classification 
 
-(Breast-Cancer-Analysis/Images/1.png)
+(master/Breast-Cancer-Analysis/Images/1.png)
 
 
 
