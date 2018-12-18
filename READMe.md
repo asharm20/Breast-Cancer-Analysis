@@ -14,6 +14,7 @@ A breast fine needle aspiration (FNA) removes some fluid or cells from a breast 
 # About the Data
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass.  They describe characteristics of the cell nuclei present in the image.
 
+![](Images/Screen%20Shot%202018-12-13%20at%205.48.56%20PM.png)
 
 # Features Importance
 Under a microscope, normal cells and cancer cells may look quite different. In contrast to normal cells, cancer cells often exhibit much more variability in cell size – some are larger than normal and some are smaller than normal. In addition, cancer cells often have an abnormal shape, both of the cell, and of the nucleus (the “brain” of the cell.) The nucleus appears both larger and darker than normal cells.
@@ -35,10 +36,11 @@ The distribution is in the ratio 60 to 40 for the variable. The accuracy for the
 
 # The Attributes characteristics for both the classes of output variable for classification 
 
-![1](https://user-images.githubusercontent.com/32040202/50133713-b516e700-025a-11e9-838b-c52f395e50b9.png)
 
-<img width="352" alt="screen shot 2018-12-17 at 11 58 28 pm" src="https://user-images.githubusercontent.com/32040202/50166635-795d3b00-02b5-11e9-890d-d8c050c81769.png">
-
+![](Images/2.png)
+![](Images/3.png)
+![](Images/4.png)
+![](Images/5.png)
 
 The texture_mean  attributes has significant overlap as compared to other attributes hence its not a good variable for classification.
 
@@ -48,8 +50,7 @@ The texture_mean  attributes has significant overlap as compared to other attrib
 
 # Correlation Matrix
 
-
-
+![](Images/6.png)
 
 
 Some of the attributes has high correlation and hence we will be using PCA in order to deal with high correlation and reduce dimensionality.
@@ -60,7 +61,7 @@ Some of the attributes has high correlation and hence we will be using PCA in or
 # Using PCA and the components explain the Variance in the dataset.
 
 
-
+![](Images/7.png)
 
 
 
@@ -77,7 +78,7 @@ The first component explains the maximum variability of the dataset as compared 
 
 
 
-
+![](Images/8.png)
 
 
 
@@ -93,4 +94,4 @@ The accuracy of the model is good and the misclassification rate is  fairly low 
 
 
 
-
+![](Images/9.png)
