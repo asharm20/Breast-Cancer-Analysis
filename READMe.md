@@ -33,8 +33,9 @@ The distribution is in the ratio 60 to 40 for the variable. The accuracy for the
 
 
 
-
 # The Attributes characteristics for both the classes of output variable for classification 
+
+(https://user-images.githubusercontent.com/32040202/50133713-b516e700-025a-11e9-838b-c52f395e50b9.png)
 
 ![1](https://user-images.githubusercontent.com/32040202/50131617-002bfc80-0251-11e9-92c9-57917ee21106.png)
 
